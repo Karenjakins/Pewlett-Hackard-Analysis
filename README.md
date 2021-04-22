@@ -9,7 +9,7 @@ The critetion was based on the birth dates ranging from 1952 to 1955 and hired d
 
 ## Results
 
-Below is the ERD (Entity Relationship Diagram) used to visualize the relationship between the data sources and the structure of the company's employee plan to facilitate the analysis. 
+- Below is the ERD (Entity Relationship Diagram) used to visualize the relationship between the data sources and the structure of the company's employee plan to facilitate the analysis. 
 
 	![alt text](https://github.com/Karenjakins/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png "Employee DB")
 
