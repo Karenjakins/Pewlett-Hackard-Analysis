@@ -22,14 +22,10 @@ The critetion was based on the birth dates ranging from 1952 to 1955 and hired d
 
 ### Mentorship Candidates
 
-- The overall results of the school analysis were not severely affected as can be seen on the screenshots below.
+- Below is the list of candidates that can qualify to become members of the mentorship programs, they can be referenced as "senior" employess amongst the staff. 
 
 	![alt text](https://github.com/Karenjakins/Pewlett-Hackard-Analysis/blob/main/Queries/Mentorship%20Eligibility.png "Mentorship Candidates")
 	
-
-
-- The same trend can be observed on the scores by **school spending, school type and school size**, the data does not provide any significant change after  having nullfied the data. 
-
 
 ## Summary
 
