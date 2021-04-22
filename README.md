@@ -15,14 +15,14 @@ The critetion was based on the birth dates ranging from 1952 to 1955 and hired d
 
 ### Future Job Openings 
 
-- After conducting the analysis it was found that there is currently a  overall results of the district analysis were not severely affected as can be seen on the screenshots below, the average math score before the grades were taken off the calculations was **79%** and after **78.9%**. The reading scores remained the same for both data sets at an **81.9%**.
+- After conducting the analysis it was found that there is currently a large number of employees of retirment age holding senior titles (57,668/90,398 = 64%) with around **64%** of the staff to retire. Please reference the Unique Titles table below. 
 	
 	![alt text](https://github.com/Karenjakins/Pewlett-Hackard-Analysis/blob/main/Queries/Unique%20Titles.png "Unique Titles")
 
 
 ### Mentorship Candidates
 
-- Below is the list of candidates that can qualify to become members of the mentorship programs, they can be referenced as "senior" employess amongst the staff. 
+- Below is the list of candidates that can qualify to become members of the mentorship program, they can be referenced as "senior" employess amongst the general staff. 
 
 	![alt text](https://github.com/Karenjakins/Pewlett-Hackard-Analysis/blob/main/Queries/Mentorship%20Eligibility.png "Mentorship Candidates")
 	
