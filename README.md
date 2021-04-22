@@ -9,6 +9,10 @@ The critetion was based on the birth dates ranging from 1952 to 1955 and hired d
 
 ## Results
 
+Below is the ERD (Entity Relationship Diagram) used to visualize the relationship between the data sources and the structure of the company's employee plan to facilitate the analysis. 
+
+![alt text](https://github.com/Karenjakins/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png "Employee DB")
+
 ### District Summary 
 
 - The overall results of the district analysis were not severely affected as can be seen on the screenshots below, the average math score before the grades were taken off the calculations was **79%** and after **78.9%**. The reading scores remained the same for both data sets at an **81.9%**.
@@ -39,6 +43,6 @@ After comparing the data from both analysis, its hard to find major changes in t
 
 ## Resources
 
-**Data Source:** departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
+**Data Sources:** departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
 
 **Software:** SQL, PostgreSQL, pgAdmin
